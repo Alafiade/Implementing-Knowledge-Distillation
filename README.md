@@ -1,2 +1,4 @@
 # Implementing-Knowledge-Distillation
-Implementing Knowledge Distillation using the Pytorch Documentation
+Implemented Knowledge Distillation to transfer knowledge from a student model to a student model using the CIFAR 10 dataset
+
+
